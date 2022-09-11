@@ -10,6 +10,6 @@ int main() {
   y1 = 10;
   y2 = 6;
   
-  cout<< "The Slope of the line including points (3,7) and (8,12) = "<< slope <<endl;
+  cout<< "The value of the slope is "<< slope <<endl;
   
 }
